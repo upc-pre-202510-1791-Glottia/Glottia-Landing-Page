@@ -11,6 +11,7 @@ Feature: Adaptabilidad del diseño a diferentes dispositivos
         When interactúa con las secciones de eventos y calendario
         Then el diseño debe mantenerse ordenado y funcional
         And los elementos deben escalar correctamente según la resolución
+    
     Scenario: Adaptación automática al cambiar el tamaño de la ventana
         Given que el usuario está en una computadora de escritorio
         When cambia el tamaño de la ventana del navegador
