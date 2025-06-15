@@ -1,4 +1,4 @@
-Feature: Adaptabilidad del diseño a diferentes dispositivos
+Feature: Adaptabilidad del diseño a diferentes dispositivo
 
     Scenario: Visualización correcta en dispositivos móviles 
         Given que el usuario accede a la plataforma desde un teléfono móvil
@@ -15,4 +15,4 @@ Feature: Adaptabilidad del diseño a diferentes dispositivos
     Scenario: Adaptación automática al cambiar el tamaño de la ventana
         Given que el usuario está en una computadora de escritorio
         When cambia el tamaño de la ventana del navegador
-        Then los elementos deberán organizarse automáticamente sin superponerse entre ellos.
+        Then los elementos deberán organizarse automáticamente sin superponerse entre ellos
