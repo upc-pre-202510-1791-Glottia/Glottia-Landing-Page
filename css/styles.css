@@ -1,5 +1,5 @@
 .container-presentacion{
-    background-image:url('Imagenes/Main.png');
+    background-image:url('../Imagenes/Main.png');
     background-size:cover;
     background-repeat: no-repeat;
     background-position: center;
